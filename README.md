@@ -1,0 +1,2 @@
+# Car-Insurance-prediction-using-logistic-regression
+For any organization it is very important to decide whether or not to give insurance to a person coming to them. Using the dataset we have, we will analyze the different variables affecting for giving or not giving the car insurance to a person based on his past credit history and different information. We will use logistic regression to predict whether or not to give car insurance to that person.
